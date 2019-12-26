@@ -1,0 +1,167 @@
+[
+    {
+      "id": "1",
+      "name": "Credit Card Account",
+      "description": "Product",
+      "abv": 39354,
+      "ibu": 76655,
+      "type": "Beauty",
+      "image": "XML",
+      "rating": 92736,
+      "brewery_id": 22072
+    },
+    {
+      "id": "2",
+      "name": "Credit Card Account",
+      "description": "Customer",
+      "abv": 42890,
+      "ibu": 47222,
+      "type": "Computers",
+      "image": "SQL",
+      "rating": 69295,
+      "brewery_id": 26941
+    },
+    {
+      "id": "3",
+      "name": "Home Loan Account",
+      "description": "Internal",
+      "abv": 86647,
+      "ibu": 89765,
+      "type": "Tools",
+      "image": "SQL",
+      "rating": 1102,
+      "brewery_id": 80631
+    },
+    {
+      "id": "4",
+      "name": "Savings Account",
+      "description": "Central",
+      "abv": 40487,
+      "ibu": 6204,
+      "type": "Movies",
+      "image": "AI",
+      "rating": 36705,
+      "brewery_id": 25813
+    },
+    {
+      "id": "5",
+      "name": "Personal Loan Account",
+      "description": "Dynamic",
+      "abv": 58334,
+      "ibu": 83473,
+      "type": "Kids",
+      "image": "AI",
+      "rating": 83522,
+      "brewery_id": 34271
+    },
+    {
+      "id": "6",
+      "name": "Money Market Account",
+      "description": "Human",
+      "abv": 62957,
+      "ibu": 93123,
+      "type": "Movies",
+      "image": "JSON",
+      "rating": 24610,
+      "brewery_id": 9809
+    },
+    {
+      "id": "7",
+      "name": "Investment Account",
+      "description": "Senior",
+      "abv": 50564,
+      "ibu": 68920,
+      "type": "Beauty",
+      "image": "IB",
+      "rating": 75638,
+      "brewery_id": 45933
+    },
+    {
+      "id": "8",
+      "name": "Auto Loan Account",
+      "description": "National",
+      "abv": 17,
+      "ibu": 19715,
+      "type": "Sports",
+      "image": "ADP",
+      "rating": 31289,
+      "brewery_id": 50384
+    },
+    {
+      "id": "9",
+      "name": "Money Market Account",
+      "description": "District",
+      "abv": 31784,
+      "ibu": 62728,
+      "type": "Grocery",
+      "image": "ADP",
+      "rating": 29713,
+      "brewery_id": 97808
+    },
+    {
+      "id": "10",
+      "name": "Personal Loan Account",
+      "description": "Central",
+      "abv": 47382,
+      "ibu": 82115,
+      "type": "Health",
+      "image": "GB",
+      "rating": 60484,
+      "brewery_id": 75676
+    },
+    {
+      "id": "11",
+      "name": "Money Market Account",
+      "description": "Corporate",
+      "abv": 86318,
+      "ibu": 17682,
+      "type": "Books",
+      "image": "SMS",
+      "rating": 16004,
+      "brewery_id": 26871
+    },
+    {
+      "id": "12",
+      "name": "Home Loan Account",
+      "description": "Global",
+      "abv": 8960,
+      "ibu": 36670,
+      "type": "Beauty",
+      "image": "SDD",
+      "rating": 20705,
+      "brewery_id": 71540
+    },
+    {
+      "id": "13",
+      "name": "Credit Card Account",
+      "description": "Investor",
+      "abv": 46755,
+      "ibu": 55187,
+      "type": "Home",
+      "image": "SSL",
+      "rating": 1674,
+      "brewery_id": 36720
+    },
+    {
+      "id": "14",
+      "name": "Checking Account",
+      "description": "Senior",
+      "abv": 66056,
+      "ibu": 99333,
+      "type": "Electronics",
+      "image": "SDD",
+      "rating": 91895,
+      "brewery_id": 31912
+    },
+    {
+      "id": "15",
+      "name": "Money Market Account",
+      "description": "Lead",
+      "abv": 82523,
+      "ibu": 72211,
+      "type": "Clothing",
+      "image": "JBOD",
+      "rating": 85299,
+      "brewery_id": 66582
+    }
+  ]

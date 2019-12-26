@@ -1,0 +1,137 @@
+[
+    {
+      "id": "1",
+      "username": "King",
+      "password": "1eFAz1NCyLi9UVG",
+      "salt": "UxWTYJFAyMzoP9k",
+      "role": "Future Configuration Technician",
+      "picture": "HTTP",
+      "awards": []
+    },
+    {
+      "id": "2",
+      "username": "Alysson",
+      "password": "JEfNu9J_Kkc2PMF",
+      "salt": "3jeMM5hjn5JSrvw",
+      "role": "Direct Infrastructure Consultant",
+      "picture": "CSS",
+      "awards": []
+    },
+    {
+      "id": "3",
+      "username": "Elaina",
+      "password": "oJIGlOTDgoMklXB",
+      "salt": "4wXsDYbQNwyaHvD",
+      "role": "Direct Communications Administrator",
+      "picture": "XML",
+      "awards": []
+    },
+    {
+      "id": "4",
+      "username": "Caterina",
+      "password": "zJvk58_DB729WRk",
+      "salt": "c6ElDxyiCAAcJjP",
+      "role": "National Configuration Coordinator",
+      "picture": "XSS",
+      "awards": []
+    },
+    {
+      "id": "5",
+      "username": "Dennis",
+      "password": "zK8FwaD0aVXy0U_",
+      "salt": "daJIxVvCDQx7cY0",
+      "role": "Dynamic Applications Developer",
+      "picture": "SAS",
+      "awards": []
+    },
+    {
+      "id": "6",
+      "username": "Quincy",
+      "password": "b0oV22H6Hvn_SAh",
+      "salt": "XlFrLZHoFFwtRUM",
+      "role": "Forward Group Manager",
+      "picture": "SDD",
+      "awards": []
+    },
+    {
+      "id": "7",
+      "username": "Beth",
+      "password": "n9kqBlln6GEscaG",
+      "salt": "XVsUSwIg62aDkj8",
+      "role": "Future Assurance Director",
+      "picture": "ADP",
+      "awards": []
+    },
+    {
+      "id": "8",
+      "username": "Alessandro",
+      "password": "ns4AyGjksCK9ns1",
+      "salt": "fhYN6yShqZYa1Mz",
+      "role": "Central Branding Engineer",
+      "picture": "THX",
+      "awards": []
+    },
+    {
+      "id": "9",
+      "username": "Phoebe",
+      "password": "Ns9EzrFMWdMi_eJ",
+      "salt": "fqkxuAv7C2ynUyu",
+      "role": "International Identity Planner",
+      "picture": "THX",
+      "awards": []
+    },
+    {
+      "id": "10",
+      "username": "Deshaun",
+      "password": "B3KVRJbVSuqIWIC",
+      "salt": "pqwkaMSwGE4Mzj7",
+      "role": "Principal Creative Specialist",
+      "picture": "SSL",
+      "awards": []
+    },
+    {
+      "id": "11",
+      "username": "Maurine",
+      "password": "jRDrx4lqozHBKlJ",
+      "salt": "DICyky89AlXZM6C",
+      "role": "Lead Optimization Executive",
+      "picture": "JBOD",
+      "awards": []
+    },
+    {
+      "id": "12",
+      "username": "Rosalia",
+      "password": "f3_tLfBeGFND_iT",
+      "salt": "VBarsKsyoyhJ5wa",
+      "role": "Dynamic Security Specialist",
+      "picture": "EXE",
+      "awards": []
+    },
+    {
+      "id": "13",
+      "username": "Laisha",
+      "password": "b505_Kj9eRQk2h_",
+      "salt": "ucA_5nUyzdEAVYc",
+      "role": "Direct Web Officer",
+      "picture": "SMTP",
+      "awards": []
+    },
+    {
+      "id": "14",
+      "username": "Kennedy",
+      "password": "wWeZgmmqEYlRe_1",
+      "salt": "XDZ0_Bg_aExbzsl",
+      "role": "Principal Group Representative",
+      "picture": "TCP",
+      "awards": []
+    },
+    {
+      "id": "15",
+      "username": "Edgar",
+      "password": "bjsWCCVp5O66_q8",
+      "salt": "xey9oiaTMtYvEdy",
+      "role": "Product Mobility Officer",
+      "picture": "AGP",
+      "awards": []
+    }
+  ]

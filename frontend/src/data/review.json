@@ -1,0 +1,107 @@
+[
+    {
+      "id": "1",
+      "beer_id": 94384,
+      "rating": 74701,
+      "text": "Product",
+      "user_id": 87723
+    },
+    {
+      "id": "2",
+      "beer_id": 86088,
+      "rating": 6109,
+      "text": "National",
+      "user_id": 4962
+    },
+    {
+      "id": "3",
+      "beer_id": 37882,
+      "rating": 96450,
+      "text": "Direct",
+      "user_id": 72372
+    },
+    {
+      "id": "4",
+      "beer_id": 95186,
+      "rating": 5635,
+      "text": "National",
+      "user_id": 62232
+    },
+    {
+      "id": "5",
+      "beer_id": 12908,
+      "rating": 2306,
+      "text": "Corporate",
+      "user_id": 2991
+    },
+    {
+      "id": "6",
+      "beer_id": 95068,
+      "rating": 79787,
+      "text": "Forward",
+      "user_id": 3174
+    },
+    {
+      "id": "7",
+      "beer_id": 32756,
+      "rating": 47670,
+      "text": "Product",
+      "user_id": 88555
+    },
+    {
+      "id": "8",
+      "beer_id": 33991,
+      "rating": 95090,
+      "text": "Customer",
+      "user_id": 9896
+    },
+    {
+      "id": "9",
+      "beer_id": 34835,
+      "rating": 26231,
+      "text": "Product",
+      "user_id": 55295
+    },
+    {
+      "id": "10",
+      "beer_id": 35314,
+      "rating": 95860,
+      "text": "Legacy",
+      "user_id": 99214
+    },
+    {
+      "id": "11",
+      "beer_id": 1168,
+      "rating": 17635,
+      "text": "Future",
+      "user_id": 95202
+    },
+    {
+      "id": "12",
+      "beer_id": 67101,
+      "rating": 65749,
+      "text": "Global",
+      "user_id": 79523
+    },
+    {
+      "id": "13",
+      "beer_id": 16047,
+      "rating": 25154,
+      "text": "Dynamic",
+      "user_id": 96975
+    },
+    {
+      "id": "14",
+      "beer_id": 85618,
+      "rating": 76864,
+      "text": "National",
+      "user_id": 90800
+    },
+    {
+      "id": "15",
+      "beer_id": 5662,
+      "rating": 19649,
+      "text": "Global",
+      "user_id": 13596
+    }
+  ]
